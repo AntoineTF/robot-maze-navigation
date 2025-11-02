@@ -104,11 +104,11 @@ This repository packages the complete perception–planning–control stack alon
 
 ## Project Context
 
-This project was completed as part of the **EPFL “Bio-Inspired and Autonomous Robotics” course** (MICRO-502) under the supervision of **Prof. Dario Floreano**. The system was developed and tested in the Thymio arena to explore end-to-end autonomy, from perception through motion execution.
+This project was completed as part of the **EPFL “Mobile Robotics” course** (MICRO-452) under the supervision of **Prof. Mondada Francesco**. The system was developed and tested in the Thymio arena to explore end-to-end autonomy, from perception through motion execution.
 
 ## Acknowledgements
 
 This README builds on the figures, images, and analysis already produced in the notebooks (`Report.ipynb`, `main.ipynb`). Keep them alongside this document so the visual explanations remain accurate.
 
-Special thanks to Prof. Dario Floreano, the MICRO-502 teaching team, and all teammates for their collaboration and guidance.
+Special thanks to Prof. Mondada Francesco, the MICRO-452 teaching team, and all teammates for their collaboration and guidance.
 
