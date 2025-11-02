@@ -30,10 +30,6 @@ This repository packages the complete perception–planning–control stack alon
 | --- | --- | --- |
 | ![Environment map](img/env_map.jpg) | ![Detected markers and objects](img/vision_init_result.jpg) | ![Local navigation FSM](img/model_local_nav.jpeg) |
 
-*Autonomous navigation sequence showing environment understanding, planning, and execution.*
-
-> 🎥 Have a mission video? Add `img/mission_thumb.png` and link it as `[![Mission video](img/mission_thumb.png)](media/thymio_run.mp4)` to showcase the run.
-
 ## Repository Structure
 
 ```text
